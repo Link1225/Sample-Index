@@ -1,1 +1,3 @@
-alert("あいうえお")
+//function recaptcha() {
+//  
+//}
